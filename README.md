@@ -8,15 +8,19 @@ Markdown is a plain-text formatting syntax that converts to HTML, where a few pu
 
 ## What is inside
 
-- `01-headings-and-emphasis.md` headings, bold, italic, strikethrough, and horizontal rules.
-- `02-lists-and-tasks.md` ordered lists, unordered lists, nesting, and task list checkboxes.
-- `03-links-and-images.md` inline links, reference links, images, and autolinks.
-- `04-code-and-blockquotes.md` inline code, fenced code blocks with language hints, and quotes.
-- `05-tables-and-gotchas.md` tables, escaping, hard line breaks, and the common surprises.
+- [01-headings-and-emphasis.md](01-headings-and-emphasis.md) headings, bold, italic, strikethrough, and horizontal rules.
+- [02-lists-and-tasks.md](02-lists-and-tasks.md) ordered lists, unordered lists, nesting, and task list checkboxes.
+- [03-links-and-images.md](03-links-and-images.md) inline links, reference links, images, and autolinks.
+- [04-code-and-blockquotes.md](04-code-and-blockquotes.md) inline code, fenced code blocks with language hints, and quotes.
+- [05-tables-and-gotchas.md](05-tables-and-gotchas.md) tables, escaping, hard line breaks, and the common surprises.
 
 ## The stance
 
 This reference shows the literal characters, not a rendered preview, because the thing you forget is the exact syntax. It favors the CommonMark and GitHub Flavored Markdown behavior most tools follow, and flags where tools disagree rather than pretending there is one universal rule.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
